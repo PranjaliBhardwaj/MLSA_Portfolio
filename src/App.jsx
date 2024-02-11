@@ -29,7 +29,7 @@ const siteProps = {
   email: "pranjali.bhardwaj@studentambassdors.com",
   gitHub: "PranjaliBhardwaj",
   instagram: " ",
-  linkedIn: "https://www.linkedin.com/in/pranjali-bhardwaj-a33ba2294/",
+  linkedIn: "pranjali-bhardwaj-a33ba2294/",
   medium: "",
   twitter: " ",
   youTube: " ",
