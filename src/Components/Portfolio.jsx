@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/mememe.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "me";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "DSA Progress",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Sharing my daily DSA progress in C++",
+    url: "https://github.com/PranjaliBhardwaj/Daily-DSA-Dose",
   },
   {
-    title: "Web Development for Beginners",
+    title: "JavaScript Mini Projects",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Javascript is intresting language used to build logic and here are some projects on JS.",
+    url: "https://github.com/PranjaliBhardwaj/Javascript-mini-Projects",
   },
   {
-    title: "My Resume Site",
+    title: "Solubility ML Model",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Find out the solubility of compenent, whether it is soluble in water or any solvent. Project by Machine Learning",
+    url: "https://github.com/PranjaliBhardwaj/Molecule_Solubility-MLmodel",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "AI Learnings",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Here I have shared about the things I learn during studying Artifical Intelligence by Microsoft Learn",
+    url: "https://github.com/PranjaliBhardwaj/AI-learnings-",
   },
 ];
 
